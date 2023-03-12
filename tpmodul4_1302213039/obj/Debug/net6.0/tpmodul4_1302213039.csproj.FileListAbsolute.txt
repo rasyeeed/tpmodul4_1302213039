@@ -1,0 +1,15 @@
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\bin\Debug\net6.0\tpmodul4_1302213039.exe
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\bin\Debug\net6.0\tpmodul4_1302213039.deps.json
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\bin\Debug\net6.0\tpmodul4_1302213039.runtimeconfig.json
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\bin\Debug\net6.0\tpmodul4_1302213039.dll
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\bin\Debug\net6.0\tpmodul4_1302213039.pdb
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.csproj.AssemblyReference.cache
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.AssemblyInfoInputs.cache
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.AssemblyInfo.cs
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.csproj.CoreCompileInputs.cache
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.dll
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\refint\tpmodul4_1302213039.dll
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.pdb
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\tpmodul4_1302213039.genruntimeconfig.cache
+C:\Telkom\Semester 4\KPL\tp4\tpmodul4_1302213039\tpmodul4_1302213039\obj\Debug\net6.0\ref\tpmodul4_1302213039.dll
